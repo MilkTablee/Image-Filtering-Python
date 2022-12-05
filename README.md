@@ -5,4 +5,4 @@ Kernel can be defined by updating kernel variable in the main function.
 Input image (to be convolved with kernel/filter) can be defined by updating img variable in the main function.
 
 
-Written in Python version 3.6.6 with the package opencv-contrib-python version 3.4.2.16 on PyCharm IDE
+Written in Python version 3.6.6 with the package opencv-contrib-python version 3.4.2.16 on PyCharm IDE.
